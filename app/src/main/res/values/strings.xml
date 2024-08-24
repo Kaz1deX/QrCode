@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QrCode</string>
+    <string name="qr_code_generation">Генерация QR кода</string>
+    <string name="qr_code_scan">Сканирование QR кода</string>
+    <string name="not_camera_permission">Вы не предоставили разрешение на
+        использование камеры</string>
+    <string name="next">Далее</string>
+    <string name="text">Текст</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="qr_code_text">Тут будет текст</string>
+</resources>
